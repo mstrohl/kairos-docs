@@ -11,7 +11,7 @@ To install manually, follow the [quickstart]({{< relref "../Getting started" >}}
 
 {{% alert title="Note" %}}
 
-**Note**: After the installation, the password login is disabled, users, and SSH keys to log in must be configured via cloud-init.
+After the installation, the password login is disabled, users, and SSH keys to log in must be configured via cloud-init.
 
 {{% /alert %}}
 
